@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.randall10.didacticcouscous.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.randall10.didacticcouscous.MyBundle
 
 class MyApplicationService {
 
